@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="500" src="https://i.ibb.co/tMWK1Ngy/night.gif" alt="Animated coding gif" />
+<img align="right" height="500" width="500" src="https://i.ibb.co/tMWK1Ngy/night.gif" alt="Animated coding gif" />
 
 ###
 
