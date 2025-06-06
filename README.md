@@ -9,7 +9,7 @@
 <p align="left">
   I'm a Frontend Developer from Vietnam. I enjoy crafting elegant, user-friendly interfaces with a focus on smooth animations and interactive experiences.  
   <br>
-  You can check out more of my work on my <a href="https://personal-porfolio-lyart.vercel.app/" target="_blank">portfolio</a>.
+  You can check out more of my work on my <a href="https://personal-porfolio-lyart.vercel.app/" target="_blank">portfolio</a> and <a href="https://cv-website-ivory.vercel.app/">cv</a>.
 </p>
 
 ###
