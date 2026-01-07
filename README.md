@@ -1,6 +1,6 @@
 <h1 align="left">👨‍💻 Hi, I'm Nguyen Tan Phat</h1>
 <p align="left">
-  I'm a Frontend Developer from Vietnam. I enjoy crafting elegant, user-friendly interfaces with a focus on smooth animations and interactive experiences.  
+  I'm a Mobile Developer. I enjoy crafting elegant, user-friendly interfaces with a focus on smooth animations and interactive experiences.  
   <br>
   You can check out more of my work on my <a href="https://personal-porfolio-lyart.vercel.app/" target="_blank">portfolio</a> and <a href="https://cv-website-ivory.vercel.app/">cv</a>.
 </p>
@@ -25,6 +25,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
 </div>
 
 ###
